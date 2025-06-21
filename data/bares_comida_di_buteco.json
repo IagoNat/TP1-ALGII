@@ -1,0 +1,74 @@
+[
+  {
+    "NOME": "Alexandre's Bar",
+    "ENDERECO": "Rua David Alves do Vale, 68 | Santa Rosa, Belo Horizonte - MG",
+    "PETISCO": "O fabuloso discão",
+    "DESCRICAO": "Polpetone com recheio de muçarela acompanhada com caponata de berinjela e abobrinha."
+  },
+  {
+    "NOME": "Amarelim do Prado",
+    "ENDERECO": "Avenida Francisco Sá, 658 | Prado, Belo Horizonte - MG",
+    "PETISCO": "Bolinho de feijoada",
+    "DESCRICAO": "Bolinho de feijoada com couve crocante."
+  },
+  {
+    "NOME": "Andrade's Beer",
+    "ENDERECO": "Rua Dona Geni, 32 | Belo Horizonte - MG",
+    "PETISCO": "Chora canelinha",
+    "DESCRICAO": "Ossobuco com purê de batatas, acompanhado de torradas de alho-poró."
+  },
+  {
+    "NOME": "Arcos Bar",
+    "ENDERECO": "Rua da Bahia, 1144 | Centro, Belo Horizonte - MG",
+    "PETISCO": "Panela da Diversidade",
+    "DESCRICAO": "Acém cozido com ervas finas, acompanhado com batata rústica."
+  },
+  {
+    "NOME": "Armazém Santa Amélia",
+    "ENDERECO": "Avenida da Sinfonia, 253 | Santa Amélia, Belo Horizonte - MG",
+    "PETISCO": "Segredo do Armazém",
+    "DESCRICAO": "Polenta cremosa com ragu de carnes cheio de sabor, agrião fresco, crispy de parmesão e um toque secreto para abrilhantar as Bodas de Prata do Comida di Buteco."
+  },
+  {
+    "NOME": "Avalanche Espeteria",
+    "ENDERECO": "Avenida Doutor Álvaro Camargos, 1113 | São João Batista, Belo Horizonte - MG",
+    "PETISCO": "Milão Maluco",
+    "DESCRICAO": "Ossobuco cozido ao molho tradicional, acompanhado com purê de batata e farofinha da casa."
+  },
+  {
+    "NOME": "Azougue Fogo e Bar",
+    "ENDERECO": "Rua do Ouro, 835 | Serra, Belo Horizonte - MG",
+    "PETISCO": "Língua da vovó Virinha",
+    "DESCRICAO": "Língua de boi assada, sobre creme de batata e milho com vinagrete mineiro e redução do caldo da própria língua com cerveja."
+  },
+  {
+    "NOME": "Baiuca",
+    "ENDERECO": "Rua Piauí, 1884 | Funcionários, Belo Horizonte - MG",
+    "PETISCO": "Canelada Suína",
+    "DESCRICAO": "Panturrilha suína, mandioca cozida com queijo e manteiga, cebola assada e crispy de couve."
+  },
+  {
+    "NOME": "Bar Bambú",
+    "ENDERECO": "Rua Divisa Nova, 670 | Salgado Filho, Belo Horizonte - MG",
+    "PETISCO": "Camarão que dorme?",
+    "DESCRICAO": "Batata recheada com strogonoff de camarão."
+  },
+  {
+    "NOME": "Bar Bendita Baderna",
+    "ENDERECO": "Rua Silva Fortes, 47 | União, Belo Horizonte - MG",
+    "PETISCO": "PARABÉNS CDB",
+    "DESCRICAO": "Coxinhas recheadas para todos os gostos, massa de abóbora com recheio de frango com quiabo, massa de mandioca com recheio de carne de lata (suína) e massa de beterraba com recheio de alho-poró com queijo canastra."
+  },
+  {
+    "NOME": "Bar da Cíntia",
+    "ENDERECO": "Rua Pastor Rui Franco, 257 | São João Batista (Venda Nova), Belo Horizonte - MG",
+    "PETISCO": "Língua bêbada",
+    "DESCRICAO": "Língua marinada na cerveja Caracu, cheiro-verde, mandioca cozida na manteiga de garrafa."
+  },
+  {
+    "NOME": "Bar da Fia",
+    "ENDERECO": "Rua dos Astecas, 2722 | Santa Mônica, Belo Horizonte - MG",
+    "PETISCO": "Língua no rabo",
+    "DESCRICAO": "Língua bovina com rabada, servida com polenta, quiabo frito e agrião."
+  }
+]
