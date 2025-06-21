@@ -51,9 +51,10 @@ Este tabalho tem como objetivo explorar aspectos práticos de algoritmos de geom
 ## 4. Exemplo de Funcionamento
 
 ### 🗺️ Mapa com marcadores
-![Demo](https://github.com/IagoNat/TP1-ALGII/blob/d4d416d4bf5556a104378ad1d466345f27c24423/assets/map_gif.gif)
+![Demo](https://github.com/IagoNat/TP1-ALGII/blob/main/assets/map_gif.gif)
 
 ### 🔍 Seleção retangular e Tabela
+![Demo](https://github.com/IagoNat/TP1-ALGII/blob/main/assets/filtro.gif)
 
 
 ---
